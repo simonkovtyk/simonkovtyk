@@ -6,6 +6,6 @@
     <p>
       - DE/UA<br/>
       - Based in DE<br/>
-      - Full-Stack<br/>
+      - Full-Stack
     </p>
 </samp>
