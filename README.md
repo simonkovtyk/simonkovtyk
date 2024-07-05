@@ -1,14 +1,11 @@
-<h3>
+<samp>
+  <h3>Welcome to my profile</h3>
+</samp>
   <samp>
-    >> Welcome
-  </samp>
-</h3>
-<br />
-<p>
-  <samp>
-    <h5><b>ABOUT ME</b></h5>
-    - DE/UA<br/>
-    - Based in DE<br/>
-    - Full-Stack
-  </samp>
-</p>
+    <h4><b>ABOUT ME</b></h4>
+    <p>
+      - DE/UA<br/>
+      - Based in DE<br/>
+      - Full-Stack<br/>
+    </p>
+</samp>
