@@ -13,7 +13,9 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
 ### Environment
 
 <div style="display:flex;">
-  <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/neovim.svg" />
+  <a href="https://neovim.io/" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/neovim.svg" />
+  </a>
   <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/vim.svg" />
   <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/debian.svg" />
   <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/wezterm.svg" />
