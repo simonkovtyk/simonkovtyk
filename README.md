@@ -2,13 +2,15 @@
 
 I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, **software architecture**, and optimizing **development environments** to boost productivity and collaboration.
 
+![](https://komarev.com/ghpvc/?username=simonkovtyk&color=5800ff)
+
 ## 🚀 About Me
 
 - 🔧 I specialize in creating seamless development workflows and robust CI/CD solutions.
 - 🛠️ I love crafting well-architected systems and exploring innovative ways to enhance the software lifecycle.
 - 🖥️ When I'm not coding, you'll find me exploring open-source projects, tweaking my development setup, or diving into creative side projects.
 
-## 🛠️ My current Technologies
+## 🛠️ My Technologies
 
 ### Environment
 
@@ -199,7 +201,16 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
   </a>
   <a href="https://webpack.js.org/" target="_blank">
     <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/webpack.svg" />
-  </a> 
+  </a>
+  <a href="https://parceljs.org/" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/05cd82e4cdac43a9d36349f89b5219c21c3a6c9b/docs/images/parcel.svg" />
+  </a>
+  <a href="https://swc.rs/" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/05cd82e4cdac43a9d36349f89b5219c21c3a6c9b/docs/images/swc.svg" />
+  </a>
+  <a href="https://turbo.build/pack/docs" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/05cd82e4cdac43a9d36349f89b5219c21c3a6c9b/docs/images/turbopack.svg" />
+  </a>
 </div>
 
 ### Databases
@@ -214,9 +225,45 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
   <a href="https://www.postgresql.org/" target="_blank">
     <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/postgresql.svg" />
   </a>
+  <a href="https://redis.io/" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/redis.svg" />
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/6d4a43606f94263ff58b2911f3a5e9438605af01/docs/images/oracle.svg" />
+  </a>
+  <a href="https://cassandra.apache.org/" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/apache-cassandra.svg" />
+  </a>
+  <a href="https://www.cockroachlabs.com/" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/cockroachdb.svg" />
+  </a>
+  <a href="https://www.couchbase.com/" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/couchbase.svg" />
+  </a>
+  <a href="https://couchdb.apache.org/" target="_blank">
+    <img width="32" height="32" src="https://github.com/simonkovtyk/simonkovtyk/blob/main/docs/images/couchdb.svg" />
+  </a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/dynamodb.svg" />
+  </a>
+  <a href="https://www.elastic.co/elasticsearch" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/elasticsearch.svg" />
+  </a>
+  <a href="https://mariadb.org/" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/mariadb.svg" />
+  </a>
+  <a href="https://memcached.org/" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/memcached.svg" />
+  </a>
+  <a href="https://learn.microsoft.com/sql/sql-server/" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/microsoft-sql-server.svg" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/sqlite.svg" />
+  </a>
 </div>
 
-### Programs
+### Servers
 
 <div style="display:flex;">
   <a href="https://www.apache.org/" target="_blank">
@@ -227,9 +274,6 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
   </a>
   <a href="https://nginx.org/" target="_blank">
     <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/nginx.svg" />
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/redis.svg" />
   </a>
 </div>
 
@@ -304,9 +348,10 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
 </div>
 
 ### More About Me
-For a complete list of my skills and experience visit my portfolio here.
+For a complete list of my skills and experience <a href="https://kovtyk.com/" target="_blank">visit my portfolio here</a>.
 
 ## 📫 How to Reach Me
 
+- 💬 Discord: @simonkov
 - 🌐 [My Portfolio](https://kovtyk.com)
 - ✉️ [simon@kovtyk.com](mailto:simon@kovtyk.com)
