@@ -4,6 +4,8 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
 
 ![](https://komarev.com/ghpvc/?username=simonkovtyk&color=5800ff)
 
+<img src="https://streak-stats.demolab.com?user=simonkovtyk&theme=transparent&hide_border=true&border_radius=0&card_width=1012&stroke=EB545400&ring=5800FF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+
 ## 🚀 About Me
 
 - 🔧 I specialize in creating seamless development workflows and robust CI/CD solutions.
@@ -15,7 +17,7 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
 ### Environment
 
 <div style="display:flex;">
-  <a href="https://neovim.io/" target="_blank">
+  <a href="https://neovim.io/" style="opacity:0;" target="_blank">
     <img width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/neovim.svg" />
   </a>
   <a href="https://www.vim.org/" target="_blank">
