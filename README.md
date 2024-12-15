@@ -3,9 +3,9 @@
 I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, **software architecture**, and optimizing **development environments** to boost productivity and collaboration.
 
 <span>
-  <img alt="Profile View Count" src="https://komarev.com/ghpvc/?username=simonkovtyk&color=5800ff" />
-  <a href="https://x.com/simonkovtyk" target="_blank"><img alt="X Profile" src="https://img.shields.io/badge/simonkovtyk-000000?style=flat&logo=x&logoColor=white" /></a>
-  <a href="https://www.npmjs.com/~simonkov" target="_blank"><img alt="npm Profile" src="https://img.shields.io/badge/simonkov-cc3534?style=flat&logo=npm&logoColor=white" /></a>
+  <a href="https://github.com/simonkovtyk/"><img alt="Profile View Count" src="https://komarev.com/ghpvc/?username=simonkovtyk&color=5800ff" /></a>
+  <a href="https://x.com/simonkovtyk/" target="_blank"><img alt="X Profile" src="https://img.shields.io/badge/simonkovtyk-000000?style=flat&logo=x&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/~simonkov/" target="_blank"><img alt="npm Profile" src="https://img.shields.io/badge/simonkov-cc3534?style=flat&logo=npm&logoColor=white" /></a>
 </span>
 
 <img src="https://streak-stats.demolab.com?user=simonkovtyk&theme=transparent&hide_border=true&border_radius=0&card_width=1012&stroke=EB545400&ring=5800FF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
