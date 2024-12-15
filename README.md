@@ -8,7 +8,7 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
   <a href="https://www.npmjs.com/~simonkov/" target="_blank"><img alt="npm Profile Badge" src="https://img.shields.io/badge/simonkov-cc3534?style=flat&logo=npm&logoColor=white" /></a>
 </span>
 
-<img alt="GitHub Commit Streak Preview" src="https://streak-stats.demolab.com?user=simonkovtyk&theme=transparent&hide_border=true&border_radius=0&card_width=1012&stroke=EB545400&ring=5800FF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+<a href="https://github.com/simonkovtyk/"><img alt="GitHub Commit Streak Preview" src="https://streak-stats.demolab.com?user=simonkovtyk&theme=transparent&hide_border=true&border_radius=0&card_width=1012&stroke=EB545400&ring=5800FF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" /></a>
 
 ## 🚀 About Me
 
