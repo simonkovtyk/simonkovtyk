@@ -45,9 +45,9 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
   &nbsp;
   <a href="https://angular.dev/" target="_blank"><img alt="Angular Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/angular.svg" /></a>
   &nbsp;
-  <a href="https://astro.build/" target="_blank"><img alt="Astro Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/astro.svg" /></a>
+  <a href="https://astro.build/" target="_blank"><img alt="Astro Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/astro.svg" /></a>
   &nbsp;
-  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"><img alt="Bash Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/bash.svg" /></a>
+  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"><img alt="Bash Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/bash.svg" /></a>
   &nbsp;
   <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/bootstrap.svg" /></a>
   &nbsp;
@@ -61,11 +61,11 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
   &nbsp;
   <a href="https://www.electronjs.org/" target="_blank"><img alt="Electron Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/electron.svg" /></a>
   &nbsp;
-  <a href="https://www.cypress.io/" target="_blank"><img alt="Cypress Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/cypress.svg" /></a>
+  <a href="https://www.cypress.io/" target="_blank"><img alt="Cypress Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/cypress.svg" /></a>
   &nbsp;
-  <a href="https://expressjs.com/" target="_blank"><img alt="ExpressJS Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/express.svg" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img alt="ExpressJS Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/express.svg" /></a>
   &nbsp;
-  <a href="https://fastify.dev/" target="_blank"><img alt="Fastify Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/fastify.svg" /></a>
+  <a href="https://fastify.dev/" target="_blank"><img alt="Fastify Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/fastify.svg" /></a>
   &nbsp;
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img alt="HTML5 Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/html5.svg" /></a>
   &nbsp;
@@ -81,7 +81,7 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
   &nbsp;
   <a href="https://www.lua.org/" target="_blank"><img alt="Lua Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/lua.svg" /></a>
   &nbsp;
-  <a href="https://commonmark.org/help/" target="_blank"><img alt="Markdown Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/markdown.svg" /></a>
+  <a href="https://commonmark.org/help/" target="_blank"><img alt="Markdown Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/markdown.svg" /></a>
   &nbsp;
   <a href="https://mui.com/material-ui/" target="_blank"><img alt="MaterialUI Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/material-ui.svg" /></a>
   &nbsp;
@@ -89,7 +89,7 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
   &nbsp;
   <a href="https://mongoosejs.com/" target="_blank"><img alt="Mongoose Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/mongoose.js.svg" /></a>
   &nbsp;
-  <a href="https://nextjs.org/" target="_blank"><img alt="Next.js Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/next.js.svg" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img alt="Next.js Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/next.js.svg" /></a>
   &nbsp;
   <a href="https://nitro.build/" target="_blank"><img alt="Nitro.js Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/nitro.svg" /></a>
   &nbsp;
@@ -101,19 +101,19 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
   &nbsp;
   <a href="https://preactjs.com/" target="_blank"><img alt="Preact Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/preact.svg" /></a>
   &nbsp;
-  <a href="https://www.prisma.io/" target="_blank"><img alt="PrismaJS Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/prismajs.svg" /></a>
+  <a href="https://www.prisma.io/" target="_blank"><img alt="PrismaJS Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/prismajs.svg" /></a>
   &nbsp;
   <a href="https://www.python.org/" target="_blank"><img alt="Python Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/python.svg" /></a>
   &nbsp;
-  <a href="https://www.radix-ui.com/" target="_blank"><img alt="RedixUI Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/radixui.svg" /></a>
+  <a href="https://www.radix-ui.com/" target="_blank"><img alt="RedixUI Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/radixui.svg" /></a>
   &nbsp;
   <a href="https://react.dev/" target="_blank"><img alt="React Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/react.svg" /></a>
   &nbsp;
-  <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/rust.svg" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/rust.svg" /></a>
   &nbsp;
   <a href="https://sass-lang.com/" target="_blank"><img alt="SASS Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/sass.svg" /></a>
   &nbsp;
-  <a href="https://ui.shadcn.com/" target="_blank"><img alt="shadcn ui Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/shadcn.svg" /></a>
+  <a href="https://ui.shadcn.com/" target="_blank"><img alt="shadcn ui Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/shadcn.svg" /></a>
   &nbsp;
   <a href="https://svelte.dev/" target="_blank"><img alt="Svelte Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/svelte.svg" /></a>
   &nbsp;
@@ -169,7 +169,7 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
   &nbsp;
   <a href="https://cassandra.apache.org/" target="_blank"><img alt="Apache Cassandra Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/apache-cassandra.svg" /></a>
   &nbsp;
-  <a href="https://www.cockroachlabs.com/" target="_blank"><img alt="CockroachDB Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/cockroachdb.svg" /></a>
+  <a href="https://www.cockroachlabs.com/" target="_blank"><img alt="CockroachDB Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/cockroachdb.svg" /></a>
   &nbsp;
   <a href="https://www.couchbase.com/" target="_blank"><img alt="Couchbase Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/couchbase.svg" /></a>
   &nbsp;
@@ -183,7 +183,7 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
   &nbsp;
   <a href="https://memcached.org/" target="_blank"><img alt="Memcached Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/memcached.svg" /></a>
   &nbsp;
-  <a href="https://learn.microsoft.com/sql/sql-server/" target="_blank"><img alt="Microsoft SQL Server Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/microsoft-sql-server.svg" /></a>
+  <a href="https://learn.microsoft.com/sql/sql-server/" target="_blank"><img alt="Microsoft SQL Server Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/microsoft-sql-server.svg" /></a>
   &nbsp;
   <a href="https://www.sqlite.org/" target="_blank"><img alt="SQlite Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/48dc0fb9257285bb296cbdce9f75861918824b61/docs/images/sqlite.svg" /></a>
 </span>
@@ -201,7 +201,7 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
 ### Cloud Solutions
 
 <span>
-  <a href="https://aws.amazon.com/" target="_blank"><img alt="Amazon Web Services Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/aws.svg" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img alt="Amazon Web Services Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/aws.svg" /></a>
   &nbsp;
   <a href="https://www.cloudflare.com/" target="_blank"><img alt="Cloudflare Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/cloudflare.svg" /></a>
   &nbsp;
@@ -223,7 +223,7 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
   &nbsp;
   <a href="https://www.figma.com/" target="_blank"><img alt="Figma Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/figma.svg" /></a>
   &nbsp;
-  <a href="https://github.com/" target="_blank"><img alt="GitHub Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/github.svg" /></a>
+  <a href="https://github.com/" target="_blank"><img alt="GitHub Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/github.svg" /></a>
   &nbsp;
   <a href="https://about.gitlab.com/" target="_blank"><img alt="GitLab Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/gitlab.svg" /></a>
   &nbsp;
@@ -241,7 +241,7 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
   &nbsp;
   <a href="https://prettier.io/" target="_blank"><img alt="Prettier Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/prettier.svg" /></a>
   &nbsp;
-  <a href="https://stylelint.io/" target="_blank"><img alt="Stylelint Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/stylelint.svg" /></a>
+  <a href="https://stylelint.io/" target="_blank"><img alt="Stylelint Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/a25dbbd8b61ec142fb1b4ce56c8752bb24eaf157/docs/images/stylelint.svg" /></a>
   &nbsp;
   <a href="https://yarnpkg.com/" target="_blank"><img alt="Yarn Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/yarn.svg" /></a>
 </span>
