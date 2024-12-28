@@ -256,5 +256,5 @@ For a complete list of my skills and experience <a href="https://kovtyk.com/" ta
 ## 📫 How to Reach Me
 
 - 💬 Discord: @simonkov
-- 🌐 [My Portfolio](https://kovtyk.com)
+- 🌐 [My Portfolio](https://simonkov.dev)
 - ✉️ [simon@kovtyk.com](mailto:simon@kovtyk.com)
