@@ -5,8 +5,6 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
 <span>
   <a href="https://github.com/simonkovtyk/"><img alt="GitHub Profile View Count Badge" src="https://komarev.com/ghpvc/?username=simonkovtyk&color=5800ff" /></a>
   <a href="https://github.com/sponsors/simonkovtyk/"><img alt="Sponsor Profile Badge" src="https://img.shields.io/badge/Sponsor_me-❤-%23E63946?style=flat&Support&logoColor=white" /></a>
-  <a href="https://x.com/simonkovtyk/" target="_blank"><img alt="X Profile Badge" src="https://img.shields.io/badge/simonkovtyk-000000?style=flat&logo=x&logoColor=white" /></a>
-  <a href="https://www.npmjs.com/~simonkov/" target="_blank"><img alt="npm Profile Badge" src="https://img.shields.io/badge/simonkov-cc3534?style=flat&logo=npm&logoColor=white" /></a>
 </span>
 
 <br />
@@ -45,6 +43,12 @@ For a complete list of my skills and experience <a href="https://simonkov.dev/" 
 
 ## 📫 How to Reach Me
 
+<a href="https://x.com/simonkovtyk/" target="_blank"><img alt="X Profile Badge" src="https://img.shields.io/badge/simonkovtyk-000000?style=flat&logo=x&logoColor=white" /></a>
+<a href="https://www.npmjs.com/~simonkov/" target="_blank"><img alt="npm Profile Badge" src="https://img.shields.io/badge/simonkov-cc3534?style=flat&logo=npm&logoColor=white" /></a>
+<a href="https://discordapp.com/users/800344088402460682" target="_blank"><img alt="Discord Profile Badge" src="https://img.shields.io/badge/simonkov-5865f2?style=flat&logo=discord&logoColor=white" /></a>
+<a href="https://discordapp.com/users/800344088402460682" target="_blank"><img alt="Website Profile Badge" src="https://img.shields.io/badge/simonkov-FF7139?style=flat&logo=firefox&logoColor=white" /></a>
+
 - 💬 Discord: @simonkov
+- <a href="https://www.mozilla.org/firefox/" target="_blank"><img alt="Firefox Icon" width="14" height="14" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/dd70ea4b8f02d5d86744cde58b4a0bc07e10e16f/docs/images/firefox.svg" /></a> Test
 - 🌐 [My Portfolio](https://simonkov.dev)
 - ✉️ [simon@kovtyk.com](mailto:simon@kovtyk.com)
