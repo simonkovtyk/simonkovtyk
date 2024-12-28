@@ -3,8 +3,8 @@
 I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, **software architecture**, and optimizing **development environments** to boost productivity and collaboration.
 
 <span>
+  <a href="https://github.com/sponsors/simonkovtyk/"><img alt="Sponsor Profile Badge" src="https://img.shields.io/badge/❤️-Sponsor_me-%23E63946?style=flat&Support&logoColor=white" /></a>
   <a href="https://github.com/simonkovtyk/"><img alt="GitHub Profile View Count Badge" src="https://komarev.com/ghpvc/?username=simonkovtyk&color=5800ff" /></a>
-  <a href="https://github.com/sponsors/simonkovtyk/"><img alt="Sponsor Profile Badge" src="https://img.shields.io/badge/Sponsor_me-❤-%23E63946?style=flat&Support&logoColor=white" /></a>
 </span>
 
 <br />
