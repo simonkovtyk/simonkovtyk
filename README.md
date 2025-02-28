@@ -21,7 +21,7 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
 ## My Environment
 
 <span>
-  <a href="https://www.debian.org/" target="_blank"><img alt="Debian Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/e3d3bb9fd9c4e659264fe2389804d43ac46b3fcd/docs/icons/debian.svg" /></a>
+  <a href="https://archlinux.org/" target="_blank"><img alt="Arch Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/e036ed7493a7d67961955292f6739cd37df8f7a5/docs/icons/arch.svg" /></a>
   &nbsp;
   <a href="https://fishshell.com/" target="_blank"><img alt="Fish Shell Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/e3d3bb9fd9c4e659264fe2389804d43ac46b3fcd/docs/icons/fish.svg" /></a>
   &nbsp;
