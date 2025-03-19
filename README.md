@@ -1,6 +1,6 @@
 # Hi, I'm Simon!
 
-I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, **software architecture**, and optimizing **development environments** to boost productivity and collaboration.
+My passion is developing efficient and high-quality software solutions, ensuring optimal performance and scalability. I enjoy tackling complex technical challenges.
 
 <span>
   <a href="https://github.com/sponsors/simonkovtyk/"><img alt="Sponsor Profile Badge" src="https://img.shields.io/badge/❤️-Sponsor_me-%23E63946?style=flat&Support&logoColor=white" /></a>
@@ -14,9 +14,11 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
 
 ## About Me
 
-- I specialize in creating seamless development workflows and robust CI/CD solutions.
-- I love crafting well-architected systems and exploring innovative ways to enhance the software lifecycle.
-- When I'm not coding, you'll find me exploring open-source projects, tweaking my development setup, or diving into creative side projects.
+- 20 y/o
+- In deep love with 🐧 Linux 
+- Open-Source enthusiast
+- Software Development: I like creating software that solves technical problems
+- Code Optimization: I enjoy fine-tuning code to improve performance, efficiency and scalability
 
 ## My Environment
 
@@ -33,6 +35,8 @@ I'm a passionate Software Developer with a strong focus on **CI/CD pipelines**, 
   &nbsp;
   <a href="https://wezfurlong.org/wezterm/" target="_blank"><img alt="WezTerm Icon" width="32" height="32" src="https://raw.githubusercontent.com/simonkovtyk/simonkovtyk/e3d3bb9fd9c4e659264fe2389804d43ac46b3fcd/docs/icons/wezterm.svg" /></a>
 </span>
+
+*(yes, I use Arch btw)*
 
 ### More About Me
 For a complete list of my skills and experience <a href="https://simonkov.dev/" target="_blank">visit my portfolio here</a>.
