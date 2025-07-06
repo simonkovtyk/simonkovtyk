@@ -23,6 +23,8 @@ My passion is developing efficient and high-quality software solutions, ensuring
 <span>
   <a href="https://archlinux.org/" target="_blank"><img alt="Arch Icon" width="32" height="32" src="./docs/icons/arch.svg" /></a>
   &nbsp;
+  <a href="https://hypr.land/" target="_blank"><img alt="Hyprland Icon" width="32" height="32" src="./docs/icons/hyprland.svg" /></a>
+  &nbsp;
   <a href="https://fishshell.com/" target="_blank"><img alt="Fish Shell Icon" width="32" height="32" src="./docs/icons/fish.svg" /></a>
   &nbsp;
   <a href="https://git-scm.com/" target="_blank"><img alt="Git Icon" width="32" height="32" src="./docs/icons/git.svg" /></a>
