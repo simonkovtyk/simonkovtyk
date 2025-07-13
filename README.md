@@ -33,7 +33,7 @@ My passion is developing efficient and high-quality software solutions, ensuring
   &nbsp;
   <a href="https://www.vim.org/" target="_blank"><img alt="Vim Icon" width="32" height="32" src="./docs/icons/vim.svg" /></a>
   &nbsp;
-  <a href="https://wezfurlong.org/wezterm/" target="_blank"><img alt="WezTerm Icon" width="32" height="32" src="./docs/icons/wezterm.svg" /></a>
+  <a href="https://alacritty.org/" target="_blank"><img alt="WezTerm Icon" width="32" height="32" src="./docs/icons/alacritty.svg" /></a>
 </span>
 
 *(yes, I use Arch btw)*
